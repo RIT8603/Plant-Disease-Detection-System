@@ -87,9 +87,9 @@ Plant-Disease-Detection-System/
 |   |   `-- services/
 |   |-- package.json
 |   `-- vite.config.js
-|-- Dataset/
-|-- Week 1/
-|-- Week 2/
+|-- /Documentation/
+|   `-- Plant Disease Detection System (2).docx
+|-- Notebook/
 |   `-- Plant_Disease_Detection_System.ipynb
 `-- README.md
 ```
@@ -305,7 +305,7 @@ For macOS/Linux, use backslashes only inside folder names and replace `^` with `
 You can also use the notebook:
 
 ```text
-Week 2/Plant_Disease_Detection_System.ipynb
+Notebook/Plant_Disease_Detection_System.ipynb
 ```
 
 After retraining, restart the Flask backend so it loads the new model file.
