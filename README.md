@@ -33,7 +33,7 @@ This project uses the New Plant Diseases Dataset from Kaggle:
 
 > Add your deployed website URL here after hosting the frontend and backend.
 
-[Demo Link : ](https://plant-disease-frontend-9zza.onrender.com/)
+[Project Preview](https://plant-disease-frontend-9zza.onrender.com/)
 
 
 ---
