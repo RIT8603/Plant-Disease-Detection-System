@@ -20,7 +20,7 @@
 > Add your public GitHub repository URL here after uploading the project.
 
 ```text
-https://github.com/your-username/Plant-Disease-Detection-System
+https://github.com/RIT8603/Plant-Disease-Detection-System
 ```
 
 ## Dataset Link
@@ -33,9 +33,8 @@ This project uses the New Plant Diseases Dataset from Kaggle:
 
 > Add your deployed website URL here after hosting the frontend and backend.
 
-```text
-https://your-demo-url.com
-```
+[Demo Link : ](https://plant-disease-frontend-9zza.onrender.com/)
+
 
 ---
 
